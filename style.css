@@ -31,9 +31,11 @@ body{
 }
 .titulo .conteudo-principal span{ 
   color:var(--verde);
+}
+
     .botoes{
       font-family:'chakara petch',sans-serif;
       background-color:var(--botao-inativo);
       color:var(--branco);
     }
-  }
+  
