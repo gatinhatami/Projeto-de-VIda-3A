@@ -23,17 +23,17 @@ body{
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
-
 }
 .titulo .conteudo-principal{
   text-align: left;
   width: 100%;
   font-size: 32px;
 }
-.titulo .conteudo-principal span{
+.titulo .conteudo-principal span{ 
   color:var(--verde);
-  
-
-
-.botoes
-    .font
+  .botoes{
+      font-family:'chakara petch',sans-serif;
+      background-color:var(--botao-inativo);
+      color:var(--branco);
+  }
+}
