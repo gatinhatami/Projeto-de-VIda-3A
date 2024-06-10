@@ -40,6 +40,6 @@ body{
     color: var(--branco); 
     display: block;
     justify-content: center;
-    padding:1em;
+    padding: 1em;
     font-size: 18px;
   }
