@@ -49,5 +49,13 @@ body{
     border-right: 4px solid var(--botao-ativo);
     border-top: none;
  }
+.botoes:first{
+    border:p ;
+}
+ @media screen and {min:width:768 px(}
+    .botoes{              
+     display: flex;
+    }  
+ }
 
  
